@@ -1,14 +1,12 @@
 # 💫 About Me:
 👩🏻‍💻 I am a motivated, energetic and progress-driven student, eager to start my professional development journey.<br/>
 👩🏻‍🎓 Studied Front-End development at [SoftUni](https://softuni.bg/)<br/>
-🌐 I like to discover new things and that motivates me to learn new different technologies<br>
 💻 I'm looking for Junior Front-End Developer job.<br/>
-➡ I've studied JavaScript, ReactJS, HTML&CSS<br>
-➡ I've also studied NodeJS, MongoDB, ExpressJS<br>
+➡ I've studied JavaScript, ReactJS, HTML&CSS, as well ass NodeJS, MongoDB, ExpressJS<br>
 🔜 I'm cyrrently learning VueJS<br>
 
 ## Personal Portfolio
-You can check my personal portfolio just to get to know me better 👉 [Here!](https://portfolio-kaloyan-yordanov.netlify.app/)
+You can check my personal portfolio to get to know me better 👉 [Here!](https://portfolio-kaloyan-yordanov.netlify.app/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kalo116) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaloyan.iordanov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaloyan-yordanov-ab9599249/) 
