@@ -1,7 +1,7 @@
 # 💫 About Me:
-👩🏻‍💻 I am a motivated, energetic and progress-driven student, eager to start my professional development journey.<br/>
-👩🏻‍🎓 Studied Front-End development at [SoftUni](https://softuni.bg/)<br/>
-💻 I'm looking for a Junior Front-End Developer job.<br/>
+👩🏻‍💻 I am a motivated, energetic and progress-driven student.<br/>
+👩🏻‍🎓 Studied Front-End and Back-end development at [SoftUni](https://softuni.bg/)<br/>
+💻 I'm looking for a Full Stack Web Developer job.<br/>
 ➡ I've studied JavaScript, ReactJS, HTML&CSS, as well as NodeJS, MongoDB, ExpressJS<br>
 🔜 I'm currently learning VueJS<br>
 
